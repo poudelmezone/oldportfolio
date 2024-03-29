@@ -443,6 +443,9 @@ body{
     height: 200px;
     resize: none;
 }
+.send-message form .h-captcha{
+    margin-left: 45px;
+}
 button{
     appearance: none;
     background: transparent;
